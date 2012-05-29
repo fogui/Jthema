@@ -9,4 +9,5 @@ The geojson data is for Colombia
 
 How to use:
 
-1. 
+1. Delete data/* and put your geojson files
+2. Create yours data ranges changing ranges and colors variables in map.js
